@@ -1,0 +1,9 @@
+.container{
+background: rgb(250, 245, 245);
+border: 3px solid rgb(12, 119, 12);
+
+}
+.col-md-5, .col-md-2{
+border:3px red solid;
+background: rgb(180, 152, 180);
+}
